@@ -2,8 +2,6 @@
 title: Impressum
 subtitle: >-
   DHPPS GmbH
-image: images/about.jpg
-image_alt: Team members in a conference room
 seo:
   title: Impressum
   description: Impressum
